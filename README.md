@@ -1,1 +1,1 @@
-This project will be my first website. I will put to test the html knowledge I have so far gained. At the end of the lesson i will use this document to reflect on what I have learned and my performance. # odin-recipes
+This webiste is a mock recepie site. I will put to test the html knowledge I have so far gained. At the end of the lesson i will use this document to reflect on what I have learned and my performance. # odin-recipes
